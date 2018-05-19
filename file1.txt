@@ -2,3 +2,5 @@ Git has two fundmental command:
 1. git add <file>
 2. git commit
    git commit -m "what you want to say"
+   
+Change one time;
